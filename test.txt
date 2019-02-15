@@ -5,5 +5,5 @@ Git is free software.
 在dev上面修u
 Creating a new branch is quick AND simpledidididi.
 改
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 
